@@ -5,26 +5,45 @@ Welcome to the Python Playground for beginners! This repository is a collection 
 ## Project List
 
 1. **Basic Calculator**
-   - A straightforward calculator to perform basic arithmetic operations.
+   - Filename: `basic_calculator.py`
 
 2. **Binary Search**
-   - Implementing the binary search algorithm to efficiently locate elements in a sorted list.
+   - Filename: `binary_search.py`
 
-3. **Email Slicer**
-   - A program to extract the username and domain from an email address.
+3. **Currency Converter**
+   - Filename: `currency_converter.py`
 
-4. **Loan Interest Calculator**
-   - Calculate the interest on a loan based on the principal amount, interest rate, and time period.
+4. **Dice Rolling Simulator**
+   - Filename: `dice_rolling_simulator.py`
 
-5. **QR Code Generator**
-   - Generate QR codes for quick and easy information sharing.
+5. **Email Slicer**
+   - Filename: `email_slicer.py`
 
-6. **Quiz Game**
-   - Test your knowledge with a simple quiz game.
+6. **Leap Year Checker**
+   - Filename: `leap_year_checker.py`
 
-7. **Random Password Generator**
-   - Create strong and secure passwords with a random password generator.
+7. **Loan Interest Calculator**
+   - Filename: `loanInterest.py`
 
-8. **Word Replacement**
-   - Replace specific words in a text with alternatives, showcasing basic text manipulation.
+8. **QR Code Generator**
+   - Filename: `qr_code_generator.py`
 
+9. **Quiz Game**
+   - Filename: `quiz.py`
+
+10. **Random Password Generator**
+    - Filename: `randomPasswordGenerator.py`
+
+11. **Rock, Paper, Scissors Game**
+    - Filename: `rock_paper_scissors.py`
+
+12. **Site Connectivity Checker**
+    - Filename: `site_connectivity.py`
+
+13. **Word Dictionary**
+    - Filename: `word_dictionary.py`
+
+14. **Word Replacement**
+    - Filename: `word_replacement.py`
+
+Feel free to explore each project, modify the code, and use them as a learning resource. Happy coding!
