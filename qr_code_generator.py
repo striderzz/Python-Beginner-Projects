@@ -16,4 +16,4 @@ def generate_qrcode(text):
   img.save("qrimg.png")
 
 url = input("Enter your url: ")
-generate_qrcode("https://www.codewithtomi.com")
+generate_qrcode(url)
