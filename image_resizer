@@ -1,0 +1,16 @@
+from PIL import Image
+
+
+def resize_image(size1,size2):
+  image = Image.open('face_detected.jpg')
+
+  #print("current size",image.size)
+
+  resized_image = image.resize((size1,size2))
+
+  resized_image.save('resizedImage' + str(size1) +".jpg")
+  #print("new size",image.size)
+
+a = int(input("Enter size1: "))
+b = int(input("Enter size2: "))
+resize_image(a,b)
