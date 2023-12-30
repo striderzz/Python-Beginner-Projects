@@ -19,31 +19,41 @@ Welcome to the Python Playground for beginners! This repository is a collection 
 5. **Email Slicer**
    - Filename: `email_slicer.py`
 
-6. **Leap Year Checker**
-   - Filename: `leap_year_checker.py`
+6. **Graph Plotter**
+   - Filename: `graph_plotter.py`
 
-7. **Loan Interest Calculator**
-   - Filename: `loanInterest.py`
+7. **Leap Year Checker**
+    - Filename: `leap_year_checker.py`
 
-8. **QR Code Generator**
-   - Filename: `qr_code_generator.py`
+8. **Loan Interest Calculator**
+    - Filename: `loan_interest.py`
 
-9. **Quiz Game**
-   - Filename: `quiz.py`
+9. **Python Automation**
+    - Filename: `python_automation.py`
 
-10. **Random Password Generator**
-    - Filename: `randomPasswordGenerator.py`
+10. **Python Face Detection**
+    - Filename: `python_face_detection.py`
 
-11. **Rock, Paper, Scissors Game**
+11. **QR Code Generator**
+    - Filename: `qr_code_generator.py`
+
+12. **Quiz Game**
+    - Filename: `quiz.py`
+
+13. **Random Password Generator**
+    - Filename: `random_password_generator.py`
+
+14. **Rock, Paper, Scissors Game**
     - Filename: `rock_paper_scissors.py`
 
-12. **Site Connectivity Checker**
+15. **Site Connectivity Checker**
     - Filename: `site_connectivity.py`
 
-13. **Word Dictionary**
+16. **Web Scraping**
+    - Filename: `web_scraping.py`
+
+17. **Word Dictionary**
     - Filename: `word_dictionary.py`
 
-14. **Word Replacement**
+18. **Word Replacement**
     - Filename: `word_replacement.py`
-
-Feel free to explore each project, modify the code, and use them as a learning resource. Happy coding!
